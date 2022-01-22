@@ -1,0 +1,15 @@
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\bin\Debug\net5.0\Shop.DataModel.deps.json
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\bin\Debug\net5.0\Shop.DataModel.runtimeconfig.json
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\bin\Debug\net5.0\Shop.DataModel.runtimeconfig.dev.json
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\bin\Debug\net5.0\Shop.DataModel.dll
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\bin\Debug\net5.0\ref\Shop.DataModel.dll
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\bin\Debug\net5.0\Shop.DataModel.pdb
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.AssemblyInfoInputs.cache
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.AssemblyInfo.cs
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.dll
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\ref\Shop.DataModel.dll
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.pdb
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.genruntimeconfig.cache
+C:\Users\asingh727\source\repos\ShoppingCart\Shop.DataModel\obj\Debug\net5.0\Shop.DataModel.csproj.AssemblyReference.cache
